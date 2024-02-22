@@ -1,0 +1,8 @@
+{
+  "encryption_algorithm": "AES-GCM",
+  "key_length": 256,
+  "hash_algorithm": "SHA-256",
+  "key_storage": "file",
+  "key_file_path": "/path/to/encryption_key.json",
+  "backup_location": "/path/to/backup_folder"
+}
